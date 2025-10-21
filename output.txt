@@ -1,0 +1,7 @@
+Enter a key to search my dictionary (or -1 to stop): phoenix
+a bird on fire
+Number of key comparisons: 7
+Enter a key to search my dictionary (or -1 to stop): cactus
+a pointy plant
+Number of key comparisons: 2
+Enter a key to search my dictionary (or -1 to stop): -1
